@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>62961032576-mg9nj9lnmpdfbuf2546gfa0kb2b8rbn2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.62961032576-mg9nj9lnmpdfbuf2546gfa0kb2b8rbn2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCYi-Vk8u5iJ1WBw37fQnZhPdlYmze2Pc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>62961032576</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.SlavaPuchkov.as-nail--</string>
+	<key>PROJECT_ID</key>
+	<string>asnail</string>
+	<key>STORAGE_BUCKET</key>
+	<string>asnail.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:62961032576:ios:3ce02cead3f5db7d2bf565</string>
+</dict>
+</plist>
